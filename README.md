@@ -1,5 +1,5 @@
 ## Description
-MVP of famous dating app - Tinder
+MVP of the famous dating app - Tinder
 
 ## Technologies
 - Java 8
