@@ -1,3 +1,14 @@
+## Description
+MVP of famous dating app - Tinder
+
+## Technologies
+- Java 8
+- Postgresql
+- Maven
+- Jetty
+- Freemarker
+- Lombok
+
 ## Test login data:
 
 **Email:** test@gmail.com
@@ -5,7 +16,7 @@
 **Password:** tesT4444
 
 ## Deployed version:
-- [TinderMVP](https://tinder-java.herokuapp.com)
+[tinder-heroku](https://tinder-java.herokuapp.com)
 
 ## if you want to run it locally you should set such env variables:
 - `PORT`
